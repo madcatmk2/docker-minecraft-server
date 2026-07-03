@@ -32,6 +32,10 @@ services:
         toss-to-feed:1.0.0+mc26.1.2
         easy-magic:26.1.0
         leaves-be-gone:26.1.0
+        journeymap:26.1.2-6.0.0+fabric
+        pick-up-notifier:26.1.1
+        easy-anvils:26.1.2
+        visual-workbench:26.1.0
       MODRINTH_DOWNLOAD_DEPENDENCIES: "required"
       UID: "1002"
     volumes:
