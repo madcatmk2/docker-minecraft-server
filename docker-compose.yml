@@ -36,6 +36,25 @@ services:
         pick-up-notifier:26.1.1
         easy-anvils:26.1.2
         visual-workbench:26.1.0
+        all-in-one-veinminer:1.1.6
+        minecart+:0.1.0
+        alternate-current:mc26.1-1.9.0
+        enchantment-descriptions:26.1.2.5
+        clumps:26.1.2.1
+        enchanting-infuser:26.1.0
+        trading-post:26.1.0
+        advanced-netherite:fabric-2.4.1-mc26.1.2
+        yungs-better-jungle-temples:26.1.2-Fabric-4.1.0
+        yungs-better-end-island:26.1.2-Fabric-4.1.0
+        yungs-better-desert-temples:26.1.2-Fabric-5.1.0
+        yungs-better-mineshafts:26.1.2-Fabric-6.1.0
+        yungs-better-caves:26.1.2-Fabric-4.1.0
+        yungs-better-dungeons:26.1.2-Fabric-6.1.0
+        yungs-better-strongholds:26.1.2-Fabric-6.1.0
+        yungs-better-ocean-monuments:26.1.2-Fabric-5.1.0
+        yungs-better-nether-fortresses:26.1.2-Fabric-4.1.0
+        yungs-better-witch-huts:26.1.2-Fabric-5.1.0
+        yungs-extras:26.1.2-Fabric-6.1.0
       MODRINTH_DOWNLOAD_DEPENDENCIES: "required"
       UID: "1002"
     volumes:
